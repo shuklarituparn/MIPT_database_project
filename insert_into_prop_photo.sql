@@ -1,0 +1,22 @@
+INSERT INTO PropertyPhoto (PID, PropertyName)
+VALUES
+(1, 'Beach House Front View'),
+(1, 'Beach House Interior'),
+(2, 'City Apartment Exterior'),
+(2, 'City Apartment Living Room'),
+(3, 'Mountain Cabin Exterior'),
+(3, 'Mountain Cabin Bedroom'),
+(4, 'Rural Cottage Exterior'),
+(4, 'Rural Cottage Kitchen'),
+(5, 'Ski Chalet Exterior'),
+(5, 'Ski Chalet Fireplace'),
+(6, 'Lake House Exterior'),
+(6, 'Lake House Dock'),
+(7, 'Luxury Villa Exterior'),
+(7, 'Luxury Villa Pool'),
+(8, 'Urban Loft Exterior'),
+(8, 'Urban Loft Bedroom'),
+(9, 'Country House Exterior'),
+(9, 'Country House Garden'),
+(10, 'Island Bungalow Exterior'),
+(10, 'Island Bungalow Bedroom');
