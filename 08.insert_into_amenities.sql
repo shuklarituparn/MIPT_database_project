@@ -1,0 +1,22 @@
+INSERT INTO airbnbdb.Amenity (PID, AmenityName)
+VALUES (1, 'Wifi'),
+       (1, 'Air Conditioning'),
+       (1, 'TV'),
+       (2, 'Wifi'),
+       (2, 'Parking'),
+       (2, 'Kitchen'),
+       (3, 'Swimming Pool'),
+       (3, 'Gym'),
+       (3, 'Balcony'),
+       (4, 'Wifi'),
+       (4, 'Heating'),
+       (4, 'Washing Machine'),
+       (5, 'Pet Friendly'),
+       (5, 'Fireplace'),
+       (6, 'Wifi'),
+       (6, 'Hot Tub'),
+       (7, 'Garden'),
+       (7, 'BBQ'),
+       (8, 'Wifi'),
+       (8, 'Elevator');
+
